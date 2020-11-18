@@ -157,7 +157,7 @@ section {
 }
 
 .filters__checkbox:checked {
-  background-image: url("/images/checkmark.png");
+  background-image: url("/public/images/checkmark.png");
   opacity: 1;
 }
 
